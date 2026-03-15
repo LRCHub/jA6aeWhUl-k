@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "明日への涙",
+  "base_artist": "川田まみ",
+  "createdAt": "2026-03-15T15:50:31.038680Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "明日への涙 -timeless tear mix-",
+      "artist": "KOTOKO",
+      "has_synced": true,
+      "path": "select/01_明日への涙_-timeless_tear_mix-_KOTOKO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "明日への涙",
+      "artist": "川田 まみ",
+      "has_synced": false,
+      "path": "select/pl_01_明日への涙_川田_まみ.txt"
+    }
+  ]
+}
